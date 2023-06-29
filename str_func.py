@@ -3,6 +3,7 @@ def capital_letters(str):
     return str.upper()
 
 def title_string(str):
-    """Функция делает заглавными первые буквы слов в строке"""
+    """Функция делает заглавными
+    первые буквы слов в строке"""
     return str.title()
 
